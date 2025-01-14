@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test Login with Forget Password(failed)">
+    <classes>
+      <class name="Nou_testTime_entry.Nou_time_today">
+        <methods>
+          <include name="click_my_time"/>
+          <include name="Teardown"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- Nou_testTime_entry.Nou_time_today -->
+    </classes>
+  </test> <!-- Test Login with Forget Password(failed) -->
+</suite> <!-- Failed suite [Suite] -->

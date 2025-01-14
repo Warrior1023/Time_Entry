@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ 
+	<test name="Test Login with Forget Password" enabled="true">
+<classes>
+<class name="Nou_testTime_entry.Nou_time_today" />
+ 
+		</classes>
+</test> <!-- Test1 -->
+</suite> <!-- Suite -->
